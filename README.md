@@ -17,6 +17,7 @@ matching with bottom-up region proposals. In CVPR, 2015.
 [3] M. Schmidt. Graphical model structure learning with l1-
 regularization. In Ph.D. Thesis, 2010.
 
+The modified [1] and [2] can downloaded from this webpage under Matlab code: http://crcv.ucf.edu/projects/videolocalization_images//
 
 In case of any comments, please drop me an email at waqas5163@gmail.com.
 
